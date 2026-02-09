@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "冷たい渦",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-09T12:43:37.838538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冷たい渦",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_冷たい渦_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冷たい渦 - Inner Whirlpool",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/02_冷たい渦_-_Inner_Whirlpool_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "冷たい渦",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_冷たい渦_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冷たい渦",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_冷たい渦_キタニタツヤ.txt"
+    }
+  ]
+}
